@@ -13,9 +13,9 @@ Creating an AIM Game with 3 screens as part of a marathon from Result School "Ma
 ​
 ## Result
 ​
-![Image alt](https://github.com/88Natalia88/training_screen1/blob/main/training_screen1.png)
-![Image alt](https://github.com/88Natalia88/training_screen1/blob/main/training_screen2.png)
-![Image alt](https://github.com/88Natalia88/training_screen1/blob/main/training_screen3.png)
+![Image alt](https://github.com/88Natalia88/AIM_training/blob/main/training_screen1.png)
+![Image alt](https://github.com/88Natalia88/AIM_training/blob/main/training_screen2.png)
+![Image alt](https://github.com/88Natalia88/AIM_training/blob/main/training_screen3.png)
 ​
 ## Author
 ​
